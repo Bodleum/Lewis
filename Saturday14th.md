@@ -4,6 +4,6 @@
 
 * Leave at 4:30am
   * Ewan pick up Daniel
-  * Calum pick up Jude and Robbie
+  * Calum pick up Jude and Robbie at 4:20
   * Mary pick up Eve I think
 * Stop at Nairn McDonald's
