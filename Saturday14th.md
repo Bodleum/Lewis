@@ -7,3 +7,6 @@
   * Calum pick up Jude and Robbie at 4:20
   * Mary pick up Eve I think
 * Stop at Nairn McDonald's
+
+## Dinner
+Stir fry by **Calum and Kirstin**

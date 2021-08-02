@@ -9,7 +9,7 @@
   * [Thursday 19th](Thursday19th.md)
   * [Friday 20th](Friday20th.md)
   * [Saturday 21st](Saturday21st.md)
-  * [Sunday 22nd](Sunday22nd.md)
 
 ## Other
   * [Shopping List](ShoppingList.md)
+  * [Activities](Activities.md)
