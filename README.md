@@ -13,3 +13,4 @@
 ## Other
   * [Shopping List](ShoppingList.md)
   * [Activities](Activities.md)
+  * [Meals](Meals.md)
