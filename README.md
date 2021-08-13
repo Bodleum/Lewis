@@ -1,5 +1,8 @@
 # Lewis
 
+# IMPORTANT
+**Bring towels and beach towels, and bedding if you're not sleeping on a bed**
+
 ## Days
   * [Saturday 14th](Saturday14th.md)
   * [Sunday 15th](Sunday15th.md)
