@@ -8,5 +8,7 @@
   * Mary pick up Eve I think
 * Stop at Nairn McDonald's
 
+*Get the ferry!!*
+
 ## Dinner
 Stir fry by **Calum and Kirstin**
