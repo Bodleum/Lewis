@@ -12,4 +12,4 @@
   * Dail mor
   * Tolsta
   * Tong
-  * Barvas moor
+  * Barvas machair
